@@ -120,10 +120,7 @@
 
   window.addEventListener("load", initSwiper);
 
-  /**
-   * Initiate Pure Counter
-   */
-  new PureCounter();
+ 
 
   /**
    * Frequently Asked Questions Toggle
